@@ -3,7 +3,7 @@
 <p>
 #### We can hide anything, even code!
 
-```ruby
+```rust
    puts "Hello World"
 ```
 </p>
