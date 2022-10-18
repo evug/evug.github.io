@@ -1,5 +1,5 @@
 # evug.github.io
-<details><summary>CLICK ME</summary>
+<details><summary>ANSWERS</summary>
 <p>
 #### We can hide anything, even code!
 
