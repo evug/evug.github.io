@@ -1,3 +1,10 @@
 # evug.github.io
-> this is blockquote
->! this is spoiler
+<details><summary>CLICK ME</summary>
+<p>
+#### We can hide anything, even code!
+
+```ruby
+   puts "Hello World"
+```
+</p>
+</details>
