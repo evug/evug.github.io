@@ -1,8 +1,9 @@
 # evug.github.io
+
+[French grammar](french/grammaire.md)
+
 <details><summary>ANSWERS</summary>
 <p>
-#### We can hide anything, even code!
-
 ```rust
    puts "Hello World"
 ```
