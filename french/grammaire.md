@@ -17,4 +17,20 @@ Ils se sont associés et sont devenus amis.
 |-ir|-i : finir -> fini |
 |-dre, -re, -oir|-u : perde -> perdu, lire -> lu, voir -> vu|
 
+<p>
 
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
+</p>
+
+<details><summary>L'exercice</summary>
+<p>
+</p>
+</details>
+
+<details><summary>L'exercice</summary>
+<p>
+</p>
+</details>
