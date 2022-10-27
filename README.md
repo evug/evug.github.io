@@ -9,3 +9,11 @@
 ```
 </p>
 </details>
+<details>NO SUMMARY
+<p>
+```rust
+   puts "Hello World"
+```
+</p>
+</details>
+<summary>SUMMARY</summary>
