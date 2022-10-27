@@ -12,16 +12,20 @@ Ils ont commencé au théâtre.
 Avec être, il s'accorde avec le sujet: 
 Ils se sont associés et sont devenus amis.
 <p>
+
 | Verbes en:   | Participes passés en: |
 | :-----: | :----------------- |
 | -er|-é : jouer -> joué |
 | -ir|-i : finir -> fini |
 | -dre, -re, -oir | -u : perde -> perdu, lire -> lu, voir -> vu |
+
 </p>
+
 | Syntax      | Description | Test Text     |
 | :---        |    :----:   |          ---: |
 | Header      | Title       | Here's this   |
 | Paragraph   | Text        | And more      |
+
 <details><summary>L'exercice</summary>
 <p>
 </p>
