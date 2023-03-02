@@ -1,7 +1,7 @@
 [CHERCHER UN APPARTEMENT](112_small.mp3)
 <details><summary>Text</summary>
 - Allo?
-- Bonjour, monsieur. J'appelle pour l'appartement dans le centre de Grenoble. Il y a une annonce sur internet. Est-ce que je peux avoir plus d'informations?
+- Bonjour, monsieur. J'appelle pour l'appartement dans le centre de Grenoble. Il y a une annonce sur internet. Est-ce que je peux avoir plus d'informations?<br>
 - Oui, bien sůr! Qu'est-ce que vous voulez savoir ?
 - Où se trouve l'appartement exactement?
 - ll se trouve rue Molière. C'est près de la place Victor Hugo. - Ah!C'est parfait. Ce n'est pas loin de mon travail. Et ilya un parking dans l'immeuble ?
