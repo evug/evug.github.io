@@ -48,10 +48,3 @@ Avec être, il s'accorde avec le sujet:<br>
 | recevoir | reçu |
 | tenir | tenu |
 | vivre | vécu |
-
-
-<details><summary>L'exercice</summary>
-<audio controls autoplay>
-  <source src="https://download.samplelib.com/mp3/sample-3s.mp3" type="audio/mpeg">
-</audio>
-</details>
