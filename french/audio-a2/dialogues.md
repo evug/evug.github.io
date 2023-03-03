@@ -1,7 +1,6 @@
 ###Compréhension orale
-Écoutez d'abord le fichier mp3. Ensuite, lisez le texte et essayez de comprendre
-Listen mp3 file first. After read the text and try to understand.
-Сначала прослушайте mp3-файл. После этого прочитайте текст и постарайтесь понять его. 
+Écoutez d'abord le fichier mp3. Ensuite, lisez le texte et essayez de comprendre.\
+Listen mp3 file first. After read the text and try to understand.\
 
 [CHERCHER UN APPARTEMENT](112_small.mp3)
 <details><summary>Text</summary>
