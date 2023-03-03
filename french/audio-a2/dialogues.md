@@ -1,3 +1,8 @@
+###Compréhension orale
+Écoutez d'abord le fichier mp3. Ensuite, lisez le texte et essayez de comprendre
+Listen mp3 file first. After read the text and try to understand.
+Сначала прослушайте mp3-файл. После этого прочитайте текст и постарайтесь понять его. 
+
 [CHERCHER UN APPARTEMENT](112_small.mp3)
 <details><summary>Text</summary>
 - Allo?
@@ -20,7 +25,7 @@
 - Euh... D'accord, demain après-midi alors.
 </details>
 
-[EN VILLE_1](115_small.mp3)
+[EN VILLE 1](115_small.mp3)
 <details><summary>Text</summary>
 - Qu'est-ce que vous faites?\
 - On va en ville pour faire des courses. Tu veux venir avec nous ?\
