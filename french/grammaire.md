@@ -48,3 +48,7 @@ Avec être, il s'accorde avec le sujet:<br>
 | recevoir | reçu |
 | tenir | tenu |
 | vivre | vécu |
+
+<audio controls>
+  <source src="https://storage.yandexcloud.net/public/001.opus" type="audio/opus">
+</audio>
