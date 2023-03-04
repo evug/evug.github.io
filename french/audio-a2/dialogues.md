@@ -3,7 +3,7 @@
 
 [CHERCHER UN APPARTEMENT](112_small.mp3)
 <details><summary>Text</summary>
- https://storage.yandexcloud.net/public/001.opus
+<audio src="https://storage.yandexcloud.net/public/001.opus"></audio>
 - Allo?<br>
 - Bonjour, monsieur. J'appelle pour l'appartement dans le centre de Grenoble. Il y a une annonce sur internet. Est-ce que je peux avoir plus d'informations?<br>
 - Oui, bien sůr! Qu'est-ce que vous voulez savoir ?<br> 
