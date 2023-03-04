@@ -1,4 +1,4 @@
-# evug.github.io
+# French A2
 
 [French grammar](french/grammaire.md)
 
