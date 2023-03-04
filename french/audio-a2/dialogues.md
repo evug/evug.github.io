@@ -3,6 +3,7 @@
 
 [CHERCHER UN APPARTEMENT](112_small.mp3)
 <details><summary>Text</summary>
+ https://storage.yandexcloud.net/public/001.opus
 - Allo?<br>
 - Bonjour, monsieur. J'appelle pour l'appartement dans le centre de Grenoble. Il y a une annonce sur internet. Est-ce que je peux avoir plus d'informations?<br>
 - Oui, bien sůr! Qu'est-ce que vous voulez savoir ?<br> 
@@ -25,6 +26,7 @@
 
 [EN VILLE 1](115_small.mp3)
 <details><summary>Text</summary>
+ <audio src="https://storage.yandexcloud.net/public/001.opus" />
 - Qu'est-ce que vous faites? <br>
 - On va en ville pour faire des courses. Tu veux venir avec nous ? <br>
 - Ben... Je ne sais pas. Vous allez où exactement? <br>
