@@ -14,7 +14,6 @@ Cela est juste pour vous orienter, à titre indicatif, mais le professeur pourra
 ➔ Pensez-vous que l’attachement aux loisirs diffère selon les pays et les cultures ?
 ➔ Les loisirs sont-ils différents selon les pays ?
 ➔ Quels loisirs pratique-t-on majoritairement dans votre pays ?
-© Français avec Pierre
 ➔ Quels sont les loisirs préférés des Français ?
 Outils Langue
 Vocabulaire
@@ -41,7 +40,6 @@ Coudre, broder, tricoter, etc.
 Aller au musée, au théâtre, à l’opéra, etc.
 Faire du lèche-vitrine (en ligne).
 Quelques synonymes sur le thème: Les loisirs, les passe-temps, les hobbies, les centres d’intérêt, le temps libre.
-© Français avec Pierre
 Faites attention !
 Vous devez faire attention aux articles contractés.
 N’oublie pas : à + la … / à l ’... / à + le ... = au … / à + les ... = aux …
@@ -69,6 +67,5 @@ Exemples : aller au théâtre / aller au cinéma.
 J’adore aller au théâtre mais je déteste aller au cinéma.
 J’adore aller au théâtre et au cinéma.
 J’adore aller au théâtre ou au cinéma.
-© Français avec Pierre
 Pour aller plus loin
 Voici une petite liste de liens utiles si vous voulez approfondir ce sujet.
