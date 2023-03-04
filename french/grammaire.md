@@ -50,5 +50,6 @@ Avec être, il s'accorde avec le sujet:<br>
 | vivre | vécu |
 
 <audio controls>
-  <source src="https://storage.yandexcloud.net/public/001.opus" type="audio/opus">
+  <source src="https://storage.yandexcloud.net/public/001.opus" type="audio/mpeg">
 </audio>
+[Questions pour preparation](chat.md)
