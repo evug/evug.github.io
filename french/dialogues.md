@@ -3,9 +3,7 @@
 
 ### CHERCHER UN APPARTEMENT
 <audio controls src="https://storage.yandexcloud.net/public/112.opus"></audio>
-<details><summary>Text</summary>
-<audio controls src="https://storage.yandexcloud.net/public/112.opus"></audio></details>
-
+<details><summary>TEXT</summary>
 - Allo?<br>
 - Bonjour, monsieur. J'appelle pour l'appartement dans le centre de Grenoble. Il y a une annonce sur internet. Est-ce que je peux avoir plus d'informations?<br>
 - Oui, bien sůr! Qu'est-ce que vous voulez savoir ?<br> 
@@ -24,11 +22,11 @@
 - Ok. Est-ce que je peux visiter l'appartement demain matin ?<br>
 - Ah, désolé! Demain matin ce n'est pas possible. Demain après-midi, si vous voulez.<br>
 - Euh... D'accord, demain après-midi alors.<br>
-
+</detalis>
 
 ### EN VILLE 1
-<details><summary>Text</summary>
- <audio controls src="https://storage.yandexcloud.net/public/115.opus" /></details>
+<audio controls src="https://storage.yandexcloud.net/public/115.opus"></audio>
+<details><summary>TEXT</summary>
 - Qu'est-ce que vous faites? <br>
 - On va en ville pour faire des courses. Tu veux venir avec nous ? <br>
 - Ben... Je ne sais pas. Vous allez où exactement? <br>
@@ -39,4 +37,22 @@
 - Ah! Oui, je sais. Moi non plus, je n'ai pas envie d'aller en ville, mais on n'a pas le choix. <br>
 - Oui, je sais... Et vous n'allez pas à la boulangerie? On n'a pas assez de pain. <br>
 - Non, on n'a pas le temps. Mais toi, tu peux peut-être trouver un peu de temps pour aller à la boulangerie, non? <br>
+</details>
 
+### EN VILLE 2
+<audio controls src="https://storage.yandexcloud.net/public/116.opus"></audio>
+<details><summary>TEXT</summary>
+- Qu'est-ce que vous aimez dans votre
+quartier?<br>
+- Alors, j'adore les petits commerces de mon
+quartier, comme la boulangerie et la boucherie. Les
+vendeurs sont très sympathiques et chaleureux, et la
+nourriture est de bonne qualité. En fait, je ne vais pas
+SOuvent au supermarché, seulement quand je dois
+acheter beaucoup de choses et que je n'ai pas assez
+de temps pour aller dans tous les petits commerces.<br>
+- Et quel est votre endroit préféré?<br>
+- Euh.. Je pense que cest le parc, parce que c'est un endroit vraiment joli, agréable et calme. Il ya beaucoup de fleurs et d'arbres. On n'a pas l'impression d'être en ville. C'est l'endroit idéal pour se reposer.<br>
+-D'après vous, qu'est-ce quil manque dans votre quartier ?<br>
+-Je pense qu'il manque une bibliothèque. On doit aller au centre-ville pour emprunter des livres, ce n'est pas pratique.
+</detalis>
