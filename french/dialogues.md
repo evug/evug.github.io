@@ -1,9 +1,10 @@
 ### Compréhension orale
-<abbr title="Слушайте">Écoutez</abbr> d'abord le fichier mp3. Ensuite, lisez le texte et essayez de comprendre.   
+Écoutez d'abord le fichier mp3. Ensuite, lisez le texte et essayez de comprendre.   
 
-[CHERCHER UN APPARTEMENT](112_small.mp3)
+### CHERCHER UN APPARTEMENT
 <details><summary>Text</summary>
-<audio src="https://storage.yandexcloud.net/public/001.opus"></audio>
+<audio controls src="https://storage.yandexcloud.net/public/001.opus"></audio></details>
+
 - Allo?<br>
 - Bonjour, monsieur. J'appelle pour l'appartement dans le centre de Grenoble. Il y a une annonce sur internet. Est-ce que je peux avoir plus d'informations?<br>
 - Oui, bien sůr! Qu'est-ce que vous voulez savoir ?<br> 
@@ -22,11 +23,11 @@
 - Ok. Est-ce que je peux visiter l'appartement demain matin ?<br>
 - Ah, désolé! Demain matin ce n'est pas possible. Demain après-midi, si vous voulez.<br>
 - Euh... D'accord, demain après-midi alors.<br>
-</details>
 
-[EN VILLE 1](115_small.mp3)
+
+### EN VILLE 1
 <details><summary>Text</summary>
- <audio src="https://storage.yandexcloud.net/public/001.opus" />
+ <audio controls src="https://storage.yandexcloud.net/public/001.opus" /></details>
 - Qu'est-ce que vous faites? <br>
 - On va en ville pour faire des courses. Tu veux venir avec nous ? <br>
 - Ben... Je ne sais pas. Vous allez où exactement? <br>
@@ -37,4 +38,4 @@
 - Ah! Oui, je sais. Moi non plus, je n'ai pas envie d'aller en ville, mais on n'a pas le choix. <br>
 - Oui, je sais... Et vous n'allez pas à la boulangerie? On n'a pas assez de pain. <br>
 - Non, on n'a pas le temps. Mais toi, tu peux peut-être trouver un peu de temps pour aller à la boulangerie, non? <br>
-</details>
+
