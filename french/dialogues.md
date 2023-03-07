@@ -22,7 +22,7 @@
 - Ok. Est-ce que je peux visiter l'appartement demain matin ?<br>
 - Ah, désolé! Demain matin ce n'est pas possible. Demain après-midi, si vous voulez.<br>
 - Euh... D'accord, demain après-midi alors.<br>
-</detalis>
+</details>
 
 ### EN VILLE 1
 <audio controls src="https://storage.yandexcloud.net/public/115.opus"></audio>
@@ -55,4 +55,31 @@ de temps pour aller dans tous les petits commerces.<br>
 - Euh.. Je pense que cest le parc, parce que c'est un endroit vraiment joli, agréable et calme. Il ya beaucoup de fleurs et d'arbres. On n'a pas l'impression d'être en ville. C'est l'endroit idéal pour se reposer.<br>
 -D'après vous, qu'est-ce quil manque dans votre quartier ?<br>
 -Je pense qu'il manque une bibliothèque. On doit aller au centre-ville pour emprunter des livres, ce n'est pas pratique.
-</detalis>
+</details>
+
+### LES TRANSPORT 1
+<audio controls src="https://storage.yandexcloud.net/public/120.opus"></audio>
+<details><summary>TEXT</summary>
+- Pardon, monsieur. Est-ce que vous savez comment aller à la bibliotheque Rousseau?<br>
+- Oui, c'est très simple. Vous prenez le bus numéro 201 ou le numéro 490. Vous voyez, l'arrét est juste ici.
+- Ah oui, d'accord. Et je descends oú?<br>
+- Vous passez trois arrêts et vous descendez a larrét Gambetta, il y a une station de métro å cinguante mètres, juste à côté d'une boulangerie. Ensuite vous prenez le métro ligne 1.., euh... non, attendez. ligne 3... Oui, c'est ça, ligne 3, direction Verneuil, et vous descendez à la station Rousseau. La bíbliothèque est juste en face de la sortie de la station, à Côté d'une église.<br>
+- D'accord! Merci beaucoup, monsieur!
+</details>
+
+### LES TRANSPORT 2
+<audio controls src="https://storage.yandexcloud.net/public/121.opus"></audio>
+<details><summary>TEXT</summary>
+- Salut Juliette, tu as cours demain matin ?<br>
+- Ah! Salut Simon. Oui, j'ai cours, je dois être à l'université à 8 heures.<br>
+- Ah! Moi aussi. On y va ensemble, si tu veux.<br>
+- Ok, tu veux y aller comment ? On prend ta voiture?<br>
+- Ah non! Ma voiture est en panne. Mais on peut prendre le bus.<br>
+- Ah! Je ne sais pas, il y a beaucoup de monde dans le bus le matin, et avec les embouteillages sur la route
+on risque d'arriver en retard. Pourquoi pas en métro?<br>
+- Oui, mais la station de métro est un peu loin, elle est à au moins 15 minutes à pied. Par contre, l'arrèt
+de bus est juste à côté.<br>
+- Ouais, c'est vrai... Sinon, on peut prendre le bus jusqu'à la station, et puis on continue avec le métro. C'est plus rapide je pense, ça prend environ 30 minutes.<br>
+- Ok, on peut faire comme ça. Alors rendez-vous demainà 7 heures 20 devant chez toi.<br>
+- Ca marche!À demain!
+</details>
