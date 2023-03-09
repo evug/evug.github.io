@@ -83,3 +83,22 @@ de bus est juste à côté.<br>
 - Ok, on peut faire comme ça. Alors rendez-vous demainà 7 heures 20 devant chez toi.<br>
 - Ca marche!À demain!
 </details>
+
+### LES DIRECTIONS
+<audio controls src="https://storage.yandexcloud.net/public/127.opus"></audio>
+<details><summary>TEXT</summary>
+- Allo?<br>
+- Salut Luc! C'est Amandine., Alors, quand est-ce que tu viens visiter mon nouvel appartement ?<br>
+- Ah! Tu y habites déjà? Ben, écoute, je suis libre là, si tu veux je peux venir maintenant.<br>
+- Ok. Je t'explique comment venir de chez toi à chez moi alors. Tu prends le métro?<br>
+- Non, j'y vais à pied.<br>
+- Ok. Alors, sors de chez toi et va à gauche sur la rue de la Paix. Ensuite, va tout droit jusqu'au carrefour avec l'avenue de Londres, il ya une station de métro.<br>
+- Oui, oui, d'accord!<br>
+- Ensuite, tourne à droite et va tout droit. - Ok. Ensuite, il y a le fleuve, non? Je dois traverser le pont?<br>
+- Oui, mais ne traverse pas le premier pont. Tourne à gauche juste avant le fleuve et passe devant une station de métro. Fais 50 mètres, puis tourne à droite et traverse le deuxième pont. Mon immeuble est juste après ce pont, sur ta droite. C'est juste à côté d'une station de métro.<br>
+- D'accord, et quel est le numéro de ton immeuble?<br>
+- C'est le numéro 21.<br>
+- Ok, et tu habites à quel étage?<br>
+- Au troisième étage. C'est l'appartement numéro 312.<br>
+- Ok!<br>
+</details>
