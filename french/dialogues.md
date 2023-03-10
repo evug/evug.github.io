@@ -102,3 +102,30 @@ de bus est juste à côté.<br>
 - Au troisième étage. C'est l'appartement numéro 312.<br>
 - Ok!<br>
 </details>
+
+### LES REPAS
+<audio controls src="https://storage.yandexcloud.net/public/133.opus"></audio>
+<details><summary>TEXT</summary>
+- Alors, qu'est-ce gu'on prépare pour le diner de ce soir? <br>
+- En entrée, on peut faire une salade, non?<br>
+- Euh... Ce n'est pas très original.. <br>
+- Alors pourquoi pas une tarte à la tomate et une
+salade ?<br>
+- Oui, bonne idée !<br>
+- Et puis, Comme plat principal on peut faire du bæuf avec quelques légumes.<br>
+- Mais tu sais bien que François et Émilie sont végéta- riens. Ils ne mangent jamais de viande.<br>
+- Ah! Alors on peut faire du poisson.<br>
+- Mais non! Ils ne mangent jamais de poisson non plus.<br>
+- Ah! Mais ils mangent des eufs et du fromage?<br>
+- Oui, je crois... Bon alors, on peut faire un bon gratin de légumes.<br>
+- Parfait! Et comme dessert?<br>
+- On peut faire un gâteau au chocolat. Et puis, je vais acheter de la glace à la vanille pour accompagner le gâteau.<br>
+- Ok! Et il faut acheter du fromage et du pain aussi. - Oui, bien sûr! Je vais acheter plusieurs types de fromages et quelques baguettes.<br>
+- Et pour les enfants, qu'est-ce qu'on cuisine? Ils n'aiment rien...<br>
+- On peut faire du poulet et des frites, ils aiment bien ça.<br>
+- D'accord. Et pour le vin, on fait comment ? - Je vais acheter quelques bouteilles de vin de Bordeaux au magasin à côté de chez nous. Et i'achète de la bière aussi?<br>
+- Non, personnen'aime la bière.<br>
+- D'accord.<br>
+- Alors je mets la table et je fais tout le ménage pendant que tu fais toutes les courses, ok?<br>
+- D'accord. Á tout à l'heure!<br>
+</details>
