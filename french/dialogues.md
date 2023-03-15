@@ -129,3 +129,36 @@ salade ?<br>
 - Alors je mets la table et je fais tout le ménage pendant que tu fais toutes les courses, ok?<br>
 - D'accord. Á tout à l'heure!<br>
 </details>
+
+
+### AU RESTAURANT
+<audio controls src="https://storage.yandexcloud.net/public/136.opus"></audio>
+<details><summary>TEXT</summary>
+- Bonsoir, madame! Bonsoir, monsieur! Vous
+avez une réservation ?<br>
+- Oui, nous avons réservé une table pour deuxc personnes au nom de Granger.<br>
+- Ah, oui! Voici votre table et voici la carte. Vous désirez boire quelque chose en apéritif?<br>
+- Oui, nous voudrions une bouteille de vin blanc, s'il vous plait.<br>
+- Qu'est-ce que tu veux prendre en entrée? Tu veux partager une salade de champignons avec moi?<br>
+- Oh, non, je n'en veux pas... Je préfère prendre une soupe.<br>
+- Ok, et comme plat ?<br>
+- Ah, regarde! Il y a du gratin dauphinois.<br>
+- Ah, oui! Tu veuX en prendre?<br>
+- Oui, et toi? Qu'est-ce que tu commandes ?<br>
+- Oh, moi, j'ai envie de manger un steak tartare.<br>
+Quelques minutes plus tard.
+- Voici le vin. Je peux prendre votre commande ?<br>
+- Oui, en entrée, on voudrait une soupe et une salade de champignons, et puis, comme plat principal, on voudrait un steak tartare et un gratin dauphinois.<br>
+- Très bien! Vous voulez de la salade ou des frites avec le steak tartare ?<br>
+- Des frites, s'il vous plaît.<br>
+- D'accord, et comme dessert ?<br>
+- Moi, je n'ai pas très faim. Je voudrais un dessert léger. Une crème brûlée, je pense.<br>
+- Ah, désolé madame! Iln'y en a plus. Et vous avez encore des glaces à la vanille ?<br>
+- Oui, nous en avons encore.<br>
+- D'accord, alors j'en prends une.<br>
+- Ah.. Moi, j'hésite. Qu'est-ce que vous conseillez ?<br>
+- Ah, notre tarte tatin faite maison est délicieuse!<br>
+- Alors nous allons prendre une tarte tatin et une glace à la vanille.<br>
+</details>
+
+
