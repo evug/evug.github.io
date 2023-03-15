@@ -146,7 +146,7 @@ avez une réservation ?<br>
 - Ah, oui! Tu veuX en prendre?<br>
 - Oui, et toi? Qu'est-ce que tu commandes ?<br>
 - Oh, moi, j'ai envie de manger un steak tartare.<br>
-Quelques minutes plus tard.
+Quelques minutes plus tard.<br>
 - Voici le vin. Je peux prendre votre commande ?<br>
 - Oui, en entrée, on voudrait une soupe et une salade de champignons, et puis, comme plat principal, on voudrait un steak tartare et un gratin dauphinois.<br>
 - Très bien! Vous voulez de la salade ou des frites avec le steak tartare ?<br>
