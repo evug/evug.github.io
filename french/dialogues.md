@@ -177,6 +177,6 @@ Quelques minutes plus tard.<br>
 - Vous savez quil ne faut pas manger trop de viande rouge, ce n'est pas bon pour la santé. Par contre, il faut consommer plus de légumes. Et du sucre? Vous en mangez beaucoup?<br>
 - Oui! J'adore le chocolat. Mais je sais qu'il ne faut pas trop en manger.<br>
 - Exactement! Essayez de ne pas en manger trop souvent. Et vous faites du sport?<br>
-- Euh... non... Parfois je fais du vélo, mais rarement. Alors, pour être en bonne santé, vous avez besol de faire du sport plus régulièrement, de la natation ou un footing par exemple. Et je pense que vou manquez de vitamines aussi, je vais vous en prescrire. Voici votre ordonnance.
+- Euh... non... Parfois je fais du vélo, mais rarement. Alors, pour être en bonne santé, vous avez besol de faire du sport plus régulièrement, de la natation ou un footing par exemple. Et je pense que vou manquez de vitamines aussi, je vais vous en prescrire. Voici votre ordonnance.<br>
 - Trés bien docteur, merci pour vos conselts.
  </details>
