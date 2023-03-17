@@ -161,4 +161,22 @@ Quelques minutes plus tard.<br>
 - Alors nous allons prendre une tarte tatin et une glace à la vanille.<br>
 </details>
 
-
+### LA SANTÉ
+<audio controls src="https://storage.yandexcloud.net/public/140.opus"></audio>
+<details><summary>TEXT</summary>
+- Bonjour, mademoiselle. Qu'est-ce qui ne va pas?<br>
+- Bonjour, docteur. Voilà, en ce moment, je prends rapidement du poids et je ne suis pas vraiment en forme. Je veux faire un régime, mais je ne sais pas comment faire.<br>
+- Ok, dites-moi, qu'est-ce que vous mangez généralement pendant les repas?<br>
+- En général, je n'ai pasle temps de cuisiner, alors je fais souvent des pâtes, c'est rapide.<br>
+- D'accord, je vois. Et vous en mangez combien de fois par semaine ?<br>
+- Euh... Environ une fois par jour, généralement le midi.<br>
+- Et vous pensez que vous mangez suffisamment de fruits et de légumes? Vous en mangez aussi une fois par jour?<br>
+- Non... Je n'en mange pas très souvent.<br>
+- D'accord. Et quel type de viande est-ce que vous mangez?<br>
+- Je mange beaucoup de viande rouge, j'adore le beuf par exemple.<br>
+- Vous savez quil ne faut pas manger trop de viande rouge, ce n'est pas bon pour la santé. Par contre, il faut consommer plus de légumes. Et du sucre? Vous en mangez beaucoup?<br>
+- Oui! J'adore le chocolat. Mais je sais qu'il ne faut pas trop en manger.<br>
+- Exactement! Essayez de ne pas en manger trop souvent. Et vous faites du sport?<br>
+- Euh... non... Parfois je fais du vélo, mais rarement. Alors, pour être en bonne santé, vous avez besol de faire du sport plus régulièrement, de la natation ou un footing par exemple. Et je pense que vou manquez de vitamines aussi, je vais vous en prescrire. Voici votre ordonnance.
+- Trés bien docteur, merci pour vos conselts.
+ </details>
