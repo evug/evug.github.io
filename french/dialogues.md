@@ -180,3 +180,16 @@ Quelques minutes plus tard.<br>
 - Euh... non... Parfois je fais du vélo, mais rarement. Alors, pour être en bonne santé, vous avez besol de faire du sport plus régulièrement, de la natation ou un footing par exemple. Et je pense que vou manquez de vitamines aussi, je vais vous en prescrire. Voici votre ordonnance.<br>
 - Trés bien docteur, merci pour vos conselts.
  </details>
+
+### WEEK-END À LA CAMPAGNE
+<audio controls src="https://storage.yandexcloud.net/public/144.opus"></audio>
+<details><summary>TEXT</summary>
+- Salut Anais, qu'est-ce que tu vas faire ce week-end? Tu as des projets?<br>
+- Oui, avec Christophe et les enfants, nous allons partir à la campagne. On n'a pas envie de rester ici ce week-end. On va sûrement faire du camping. Et toi? Qu'est-ce que tu vas faire?<br>
+- Oh, moi, je ne sais pas encore ce que je vais faire.<br>
+- Ah! Alors viens avec nous! Tu vas voir, ça va être sympa.<br>
+- Oui, pourquoi pas? Mais je n'ai pas de tente.<br>
+- Oh, pas de problème! Nous en avons trois.<br>
+- D'accord! Et qu'est-ce qu'on va faire là-bas? Alors, samedi, on va aller au lac pour faire du bateau et se baigner, et peut-être qu'on va faire un pique-nique aussi. Et puis, dimanche, Christophe va aller visiter une ferme avec les enfants. Ils vont aller voir des vaches, des cochons, des poules, des chevaux, des moutons... Je pense qu'ils vont bien s'amuser. Et puis, ils vont peut-être faire de l'équitation aussi. Mais nous deux, on va rester au camping pour se reposer. Il y a une piscine, on va pouvoir se baigner et bronzer tranquillement.<br>
+- Ah oui ! Parfait!Je pense que ça va être un week-end vraiment sympa.
+</details>
