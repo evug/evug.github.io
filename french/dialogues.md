@@ -207,3 +207,4 @@ Quelques minutes plus tard.<br>
 - Oui, il a pris mon numéro de téléphone. Et puis, le lendemain, il m'a téléphoné pour m'inviter à un concert samedi soir...<br>
 - Ah super ! Et tu vas y aller ?<br>
 - Ben oui, bien sûr! -Eh ben, tu as enfin trouvé un homme suffisamment bien pour toi. Je vois que l'année commence bien!<br>
+</details>
