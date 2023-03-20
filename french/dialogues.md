@@ -193,3 +193,17 @@ Quelques minutes plus tard.<br>
 - D'accord! Et qu'est-ce qu'on va faire là-bas? Alors, samedi, on va aller au lac pour faire du bateau et se baigner, et peut-être qu'on va faire un pique-nique aussi. Et puis, dimanche, Christophe va aller visiter une ferme avec les enfants. Ils vont aller voir des vaches, des cochons, des poules, des chevaux, des moutons... Je pense qu'ils vont bien s'amuser. Et puis, ils vont peut-être faire de l'équitation aussi. Mais nous deux, on va rester au camping pour se reposer. Il y a une piscine, on va pouvoir se baigner et bronzer tranquillement.<br>
 - Ah oui ! Parfait!Je pense que ça va être un week-end vraiment sympa.
 </details>
+
+### LES FÉTES
+<audio controls src="https://storage.yandexcloud.net/public/147.opus"></audio>
+<details><summary>TEXT</summary>
+- Salut Claire. Bonne année!<br>
+- Ah! Salut Virginie. Bonne année à toi aussi ! Meilleurs veux ! Alors, qu'est-ce que tu as fait pour le Jour de l'an?<br>
+- Oh, j'ai passé le Nouvel An chez moi avec ma famille. Nous avons invité mes cousins.<br>
+- Ah, tu as invité ton cousin Marc aussi ?<br>
+- Oui, mais il n'a pas pu venir. Mais bon, le 31 après-midi, nous avons fait des courses, puis nous avons cuisiné avec les enfants. Et puis, le soir, nous avons fait un grand repas. J'ai passé une bonne soirée ! Nous avons bien mangé et bien discuté. Les enfants ont joué ensemble et ont chanté des chansons de Noël. Et toi, tu as passé le Nouvel An avec qui?<br>
+- Moi, j'ai passé la soirée chez des amis, Alice et Guillaume. J'ai rencontré plein de gens sympas. Nous avons dansé, nous avons bien mangé et nous avons beaucoup bu aussi. Et puis, vers minuit, Guilaume m'a présenté son nouveau voisin, Simon. Il est beau, très sympathique, intéressant, amusant.. Nous avons discuté to ute la nuit, je n'ai presque pas dormi.<br>
+- Ah bon ? Et tu vas le revoir?<br>
+- Oui, il a pris mon numéro de téléphone. Et puis, le lendemain, il m'a téléphoné pour m'inviter à un concert samedi soir...<br>
+- Ah super ! Et tu vas y aller ?<br>
+- Ben oui, bien sûr! -Eh ben, tu as enfin trouvé un homme suffisamment bien pour toi. Je vois que l'année commence bien!<br>
