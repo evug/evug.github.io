@@ -208,3 +208,26 @@ Quelques minutes plus tard.<br>
 - Ah super ! Et tu vas y aller ?<br>
 - Ben oui, bien sûr! -Eh ben, tu as enfin trouvé un homme suffisamment bien pour toi. Je vois que l'année commence bien!<br>
 </details>
+
+### LES VOYAGES
+<audio controls src="https://storage.yandexcloud.net/public/150.opus"></audio>
+<details><summary>TEXT</summary>
+- Alors comment s'est passé votre voyage? Vous ètes allés en Espagne, non? Oui, mais, ça ne s'est pas très bien passé.<br>
+- Ah bon ? Pourquoi?<br>
+- Oh, le premier jour, notre avion a eu du retard, nous avons dů attendre à l'aéroport pendant trois heures, et nous sommes donc arrivés à Barcelone avec trois heures de retard. Ensuite, nous sommes allés à l'hôtel, puis quand nous sommes sortis pour aller en ville, quelqu'un a volė le portefeuille de Sébastien.<br>
+- Ah bon? Comment?<br>
+- Je ne sais pas, dans le métro... On a volé tout mon argent et ma carte bancaire. Heureusement, on n'a pas pris mon passeport.<br>
+- Et qu'est-ce que vous avez fait?<br>
+- Ben, nous sommes allés à la police pour déclarer le vol. Mais ils n'ont pas pu retrouver le voleur.
+- Et nous avons appelé la banque pour bloquer ma carte aussi.<br>
+- Et comment vous avez fait pour payer le reste des vacances?<br>
+- Lorène a payé avec sa carte bancaire.<br>
+- Oui. Et puis ensuite, le deuxième jour, il a plu toute la journée, donc on a visité quelques musées et la cathédrale. Mais on ne s'est pas promenés dans les rues, ni dans les parcs, et on n'a pas pu aller à la plage. Et le troisième jour, je suis tombée malade.<br>
+- Ah bon?<br>
+- Oui, j'ai eu beaucoup de fièvre et très mal au ventre. Je suis restée au lit pendant deux jours.<br>
+- Oh! Ma pauvre ! Et toi, Sébastien, qu'est-ce que tu as fait?<br>
+- Oh, moi, je suis resté avecelle. Et je me suis promené un peu aussi. Mais tout seul, ce n'est pas parei.<br>
+- Et ensuite?<br>
+- Ben, ensuite on est rentrés. C'était la fin des vacances.<br>
+- Eh ben.. Vous n'avez vraiment pas eu de chance!<br>
+ </details>
