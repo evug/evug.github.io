@@ -231,3 +231,20 @@ Quelques minutes plus tard.<br>
 - Ben, ensuite on est rentrés. C'était la fin des vacances.<br>
 - Eh ben.. Vous n'avez vraiment pas eu de chance!<br>
  </details>
+
+
+### JOYEUX ANNIVERSAIRE!
+<audio controls src="https://storage.yandexcloud.net/public/152.opus"></audio>
+<details><summary>TEXT</summary>
+- Salut Marine!
+- Salut Lucas! Tu as une idée de cadeau pour l'anni- versaire d'Élodie?<br>
+- Ah, c'est son anniversaire ? Elle ne me l'a pas dít.<br>
+- Oui, c'est samedi. Mais je ne sais pas si elle va le fêter.<br>
+- On pourrait lui organiser une soirée surprise, non ?<br>
+- Oui bonne idée! On peut inviter ses amis de l'université et de son club de théâtre. Je vais leur téléphoner pour les inviter. Et son frère aussi, on l'invite, non?<bR>
+- Oui, bien sûr, ils s'entendent très bien. Et pourquoi pas ses voisins, Maxime et Charlotte?<br>
+- Euh.. non, je crois qu'Elodie ne les aime pas trop... Et où est-ce qu'on peut la faire cette fête ?<br>
+- On peut peut-être la faire chez son frère. Je vais l'appeler pour lui demander son avis, je le connais bien. J'espère qu'il pourra nous aider à l'organiser.<br>
+- Et on doit faire les courses aussi, pour la nourriture et les boissons.<br>
+ Не закончил. 
+ </details>
