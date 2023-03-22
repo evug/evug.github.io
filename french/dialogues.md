@@ -246,5 +246,10 @@ Quelques minutes plus tard.<br>
 - Euh.. non, je crois qu'Elodie ne les aime pas trop... Et où est-ce qu'on peut la faire cette fête ?<br>
 - On peut peut-être la faire chez son frère. Je vais l'appeler pour lui demander son avis, je le connais bien. J'espère qu'il pourra nous aider à l'organiser.<br>
 - Et on doit faire les courses aussi, pour la nourriture et les boissons.<br>
- Не закончил. 
+- Ok, on peut les faire ensemble demain matin si tu veux.<br>
+- Ça marche! Et qu'est-ce qu'on lui achète comme cadeau?<br>
+- Pourquoi pas un bijou?<br>
+- Ah! Je ne sais pas, c'est un peu banal, et puis elle en a déjà beaucoup. Mais on peut lui offrir une machine à café, elle n'en a pas.<br>
+- Oui, c'est un cadeau utile, mais un peu cher, non?<br>
+- Oui, mais... nous pouvons demander aux invités de participer à l'achat du cadeau... Je pense qu'ils vont accepter.<br>
  </details>
