@@ -253,3 +253,23 @@ Quelques minutes plus tard.<br>
 - Oui, c'est un cadeau utile, mais un peu cher, non?<br>
 - Oui, mais... nous pouvons demander aux invités de participer à l'achat du cadeau... Je pense qu'ils vont accepter.<br>
  </details>
+
+ ### VACANCES EN FRANCE
+<audio controls src="https://storage.yandexcloud.net/public/155.opus"></audio>
+<details><summary>TEXT</summary>
+- Tiens, salut Marion!<br>
+- Salut Chloé! Alors, tu as passé de bonnes vacances? Tu es partie où ?<br>
+- Je suis allée en Provence avec David.<br>
+- Ah génial! C'était bien?<br>
+- Oh, oui! J'ai passé de meilleures vacances que l'année dernière, il a fait beaucoup plus beau.<br>
+- Vous ètes allés où exactement?<br>
+- Nous avons visité Avignon, Marseille et Nice. Mais nous avons passé beaucoup plus de temps à la campagne qu'en ville.<br>
+- Ah d'accord. Et ily avait beaucoup de touristes?<br>
+- Oui, mais pas autant qu'à Paris. Et puis dans le sud, les gens sont plus sympas et moins stressés que les Parisiens, c'est vraiment agréable. Et toi alors, tu es allée où ?<br>
+- Moi, je suis allée à Bordeaux chez une amie, c'était super!<br>
+- Ah, tu as dû boire beaucoup de vin alors.<br>
+- Oh oui! Et je le trouve meilleur que le vin de Bourgogne.<br>
+- Tu es allée à la plage, non? Tu es plus bronzée qu'avant.<br>
+- Oui, à l'océan Atlantique. C'était génial! Il y a beaucoup plus de vagues que dans la Méditerranée.<br>
+- Oui, je sais. J'y suis allée il y a deux ans et jai passé de super vacances, aussi bonnes que cette année.<br>
+  </details>
