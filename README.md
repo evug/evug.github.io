@@ -1,5 +1,5 @@
-# French A2
+# Blog of System Engineer
 
-[French grammar](french/grammaire.md)
+[French](french/_sommaire.md)
 
-[Audio A2](french/dialogues.md)
+
