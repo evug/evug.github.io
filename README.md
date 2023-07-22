@@ -1,5 +1,5 @@
 # Blog of System Engineer
 
-[French](french/_sommaire.md)
+[French](french/sommaire.md)
 
 
