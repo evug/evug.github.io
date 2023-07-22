@@ -1,5 +1,3 @@
-# Blog of System Engineer
-
-[French](french/sommaire.md)
+# [French Lessons](french/sommaire.md)
 
 
